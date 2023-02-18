@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/LocalStorageApp/static/css/main.073c9b0a.css",
+    "main.js": "/LocalStorageApp/static/js/main.0a6c7830.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/LocalStorageApp/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/logo.svg": "/LocalStorageApp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/LocalStorageApp/index.html",
+    "main.073c9b0a.css.map": "/LocalStorageApp/static/css/main.073c9b0a.css.map",
+    "main.0a6c7830.js.map": "/LocalStorageApp/static/js/main.0a6c7830.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/LocalStorageApp/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.0a6c7830.js"
+  ]
+}
