@@ -1,7 +1,7 @@
 {
   "name": "local-storage-app",
   "version": "0.1.0",
-  "homepage": "https://github.com/OlegKolesnikov2022/LocalStorageApp.io",
+  "homepage": "https://github.com/OlegKolesnikov2022/LocalStorageApp",
   "private": false,
 
   "devDependencies": {
